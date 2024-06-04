@@ -1,4 +1,4 @@
-![image](https://github.com/AddankiGanesh/AddankiGanesh/assets/143608365/29f9444e-4f24-4f63-bf3c-aa39def1d83e)<h1 align="left">Hey 👋 What's up?</h1>
+(https://github.com/AddankiGanesh/AddankiGanesh/assets/143608365/29f9444e-4f24-4f63-bf3c-aa39def1d83e)<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
