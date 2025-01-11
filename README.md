@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MLSA AVV Amaravati**
 
-- 👯 I’m looking to collaborate on **Cyber security-Ethical hacking**
+- 👯 I’m looking to collaborate on **Data Analyst Role**
 
 - 💬 Ask me about **frontend developmet.**
 
