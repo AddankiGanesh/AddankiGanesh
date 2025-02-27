@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **MLSA AVV Amaravati**
 
-- 👯 I’m looking to collaborate on **Data Analyst Role**
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 💬 Ask me about **frontend developmet.**
+- 💬 Ask me about **Machine Learning.**
 
 - 📫 How to reach me **ganeshsuraj29@gmail.com**
 
